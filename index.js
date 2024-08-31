@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Erzurum J. B. Kmt. Botu","2. Çalışan Botumuz"];
+const statusMessages = ["3. Ordu Komutanlığı Botu","2. Çalışan Botumuz"];
 
 
 let currentIndex = 0;
